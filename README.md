@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renanmarianods
-- 👀 I’m interested in Games, Programming and Music
+- 👀 I’m interested in Programming, Games and Music
 - 🌱 I’m currently learning HMTL, CSS, Java and Python
-- 💞️ I’m looking to collaborate on Frot End projects
+- 💞️ I’m looking to collaborate on Front End projects
 - 📫 How to reach me? Send me a message in LinkedIn
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I know to play Keyboard!
