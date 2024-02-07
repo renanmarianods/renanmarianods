@@ -2,7 +2,7 @@
 - 👀 I’m interested in Games, Programming and Music
 - 🌱 I’m currently learning HMTL, CSS, Java and Python
 - 💞️ I’m looking to collaborate on Frot End projects
-- 📫 How to reach me sending a message here
+- 📫 How to reach me? Send me a message in LinkedIn
 - 😄 Pronouns: He, him
 - ⚡ Fun fact: I know to play Keyboard!
 
